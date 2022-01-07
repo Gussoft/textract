@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JSignPdf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JSignPdf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

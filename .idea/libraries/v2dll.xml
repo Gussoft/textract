@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="v2dll">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/v2dll.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

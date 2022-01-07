@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DibujarRectangulos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DibujarRectangulos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
