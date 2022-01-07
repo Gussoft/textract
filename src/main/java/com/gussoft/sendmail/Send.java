@@ -33,7 +33,7 @@ public class Send {
 
             Session session = Session.getDefaultInstance(properties);
             String correoEmi = "sapitoelbarbaro@gmail.com";
-            String password = "konanelbarbaro";
+            String password = "password";
 
             BodyPart texto = new MimeBodyPart();
             texto.setContent(message, "text/html");
