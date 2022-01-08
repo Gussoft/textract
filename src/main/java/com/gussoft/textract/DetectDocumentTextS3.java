@@ -36,8 +36,8 @@ import java.util.List;
  * https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/get-started.html
  */
 public class DetectDocumentTextS3 {
-    static final String ACCESS_KEY = "A0KIAJVSRPDO66O2DRMFQ";
-    static final String ACCESS_SECRET = "a0pQYNR145/UstlhJmHimErOsGeh31nbteYN6VUTU";
+    static final String ACCESS_KEY = "";
+    static final String ACCESS_SECRET = "";
 
     public static void main(String[] args) {
 
