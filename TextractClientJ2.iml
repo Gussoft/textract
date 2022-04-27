@@ -25,6 +25,8 @@
     <orderEntry type="library" name="v2dll" level="project" />
     <orderEntry type="library" name="JSignPdf" level="project" />
     <orderEntry type="library" name="DibujarRectangulos" level="project" />
+    <orderEntry type="library" name="sqljdbc42" level="project" />
+    <orderEntry type="library" name="dss-standalone-app-package-5.10.RC1-complete-zip" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.4.2" level="project" />
     <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.1.1" level="project" />
@@ -89,5 +91,6 @@
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
     <orderEntry type="library" name="Maven: com.itextpdf:itextpdf:5.5.6" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.7" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.9" level="project" />
   </component>
 </module>

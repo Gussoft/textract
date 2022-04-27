@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dss-standalone-app-package-5.10.RC1-complete-zip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/dss-standalone-app-package-5.10.RC1-complete-zip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
